@@ -1,0 +1,46 @@
+{
+    "backgroud": {
+        "enable_coast": true,
+        "enable_national_border": true,
+        "enable_province_border": false,
+        "sea_color": "#eef8fa",
+        "land_color": "#f5efe4",
+        "border_color": "#8d6e63",
+        "border_width": 1.5,
+        "enable_coordinate_grid": true,
+        "left_longitude": 100,
+        "right_longitude": 160,
+        "top_latitude": 50,
+        "bottom_latitude": 5,
+        "width": 18,
+        "height": 14,
+        "enable_title": true
+    },
+    "color": {
+        "boundaries": [
+            1005, 995, 985, 975, 965, 950, 935
+        ],
+        "colors":[
+            "#000100",
+            "#00b3fa",
+            "#33ee44",
+            "#fbb333",
+            "#fc0eb0",
+            "#f733f4",
+            "#c41cf9",
+            "#4c1bec"
+            
+        ],
+        "apply_to_line": false,
+        "line_width": 2
+    },
+    "decay": {
+        "boundaries": [],
+        "size": [
+            75
+        ],
+        "line_width": [
+            1.5
+        ]
+    }
+}
